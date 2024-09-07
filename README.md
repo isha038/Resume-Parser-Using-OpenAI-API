@@ -156,8 +156,7 @@ This project automates the parsing of resumes using the OpenAI GPT-4 API. It ext
 1. **Skills Distribution by Candidate (Stacked Bar Chart)**:
    Visualizes the frequency of skills for each candidate using a stacked bar chart.
    
-   ![Stacked Bar Chart](#)  <!-- Add image if necessary or link to example -->
-   
+   ![Stacked Bar Chart](images/stacked_barchart.png)
    ```python
    # Convert the skills into a Counter to get the frequency of skills per candidate
    skills_data = pd.DataFrame(df['Skills'].apply(Counter).tolist()).fillna(0)
@@ -174,6 +173,7 @@ This project automates the parsing of resumes using the OpenAI GPT-4 API. It ext
 
 2. **Total Experience by Candidate (Bar Chart)**:
    This bar chart shows the total work experience (in years) of each candidate.
+
    
    ```python
    import plotly.express as px
@@ -183,6 +183,7 @@ This project automates the parsing of resumes using the OpenAI GPT-4 API. It ext
 
 3. **Experience vs. Graduation Year (Scatter Plot)**:
    A scatter plot showing the relationship between graduation year and total experience for each candidate.
+   ![Scatter Plot](images/scatter_plot.png)
    
    ```python
    df.plot(kind='scatter', x='Graduation year', y='Total experience', title='Experience vs Graduation Year')
@@ -191,7 +192,7 @@ This project automates the parsing of resumes using the OpenAI GPT-4 API. It ext
 
 4. **Distribution of Programming Languages Known (Pie Chart)**:
    Visualizes the distribution of the number of programming languages known by candidates using a pie chart.
-   
+   ![Pie Chart](images/piechart.png)
    ```python
    df['Number of programming languages'].value_counts().plot(kind='pie', autopct='%1.1f%%', title='Distribution of Programming Languages Known')
    plt.show()
@@ -199,6 +200,8 @@ This project automates the parsing of resumes using the OpenAI GPT-4 API. It ext
 
 5. **Box Plot for Experience Distribution(Box Plot)**
     Visualizes the distribution of experience across candidates.
+
+    ![Box Plot](images/boxplot.png)
     ```python
     sns.boxplot(x='Total experience', data=df)
     plt.title('Distribution of Experience')
