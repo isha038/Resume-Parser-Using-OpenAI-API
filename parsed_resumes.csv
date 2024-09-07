@@ -1,0 +1,19 @@
+Name,Email,Mobile number,Skills,Number of programming languages,Total experience,Degree,University,Graduation year,Latest company,Start year at the latest company
+AMIE CLAUDE,amieclaude@email.com,"(123) 456-7890
+","['Python (Django)', 'Java', 'Unix', 'Git', 'Javascript', 'SQL', 'HTML/CSS']",5,5,B.S. in Computer Science,University of Pittsburgh,2020,DICK's Sporting Goods,2020.0
+ARIA FISCHER,a.ﬁscher@email.com,"(123) 456-7890
+","['Eclipse', 'Subversion (SVN)', 'C++', 'React', 'PostgreSQL', 'Microsoft Azure', 'Selenium']",3,3,Bachelor of Science in Computer Science and Engineering,University of Michigan,2017,Blue Cross Blue Shield of Michigan,2020.0
+Cynthia Dwayne,cynthia@beamjobs.com,"(123) 456-7890
+","['Python (Django)', 'SQL (PostgreSQL', 'MySQL)', 'Cloud (GCP', 'AWS)', 'JavaScript (ES6', 'React', 'Redux', 'Node.js)', 'Typescript', 'HTML/CSS', 'CI/CD']",4,9,Bachelor of Science in Computer Science,University of Delaware,2012,QuickBooks,2017.0
+ISHA SHRESTHA,ishastha038@gmail.com,"(662) 370-7535
+","['Python', 'C', 'Linux', 'HTML', 'CSS', 'Excel', 'MS Word', 'PowerPoint']",2,3,Bachelor of Science in Computer Science,Mississippi State University,2027,"Mississippi State University, Dept of Agriculture & Biological Engineering",2023.0
+Lysandra Vega,lysandrav@email.com,"(123) 456-7890
+","['Visual Studio Code', 'Git', 'MySQL', 'Django', 'Heroku', 'macOS', 'Python']",2,1,B.S. Computer Engineering,Purdue University,2023,Infosys,2022.0
+Tamara Turbinado,Tamar@email.com,"(123) 456-7890
+","['HTML', 'CSS', 'Bootstrap', 'SASS', 'JavaScript', 'React', 'jQuery']",3,1,Bachelor of Science in Computer Science ,San Jose State University,2021,Boeing,
+Tasiana Ukura,tukura@email.com,,"['Python', 'JavaScript', 'C++', 'Java', 'Django', 'NodeJS', 'React', 'jQuery', 'Unix', 'Git', 'Selenium', 'SQL (PostgreSQL', 'MySQL)', 'NoSQL', 'AWS']",4,12,"B.S.,Computer Science",University of Washington,2008,Fast,2016.0
+Wendy Bailey,w.bailey@email.com,"(123) 456-7890
+","['Python', 'Subversion (SVN)', 'IntelliJ IDEA', 'PostgreSQL', 'Amazon Web Services (AWS)', 'Kubernetes', 'Travis CI', 'Angular', 'Selenium', 'Trello']",1,8,Bachelor of Science in Computer Science,Carnegie Mellon University,2017,Amazon,2023.0
+"Xavier Rivera,","x.rivera@email.com,",(123) 456-7890,"['[""HTML5""', '""React.js""', '""Git""', '""Sass"",""Webpack""', '""npm (Node Package Manager)""', '""Visual Studio Code""', '""Jest""', '""Gulp""', '""Bootstrap""],']",2,4,"""Bachelor of Science"",","""Stanford University"",",2017,"""Asana"",",2021.0
+Yvonne Green,y.green@email.com,"(123) 456-7890
+","['Java', 'Git', 'Visual Studio Code', 'MySQL', 'AWS', 'Docker', 'Jenkins', 'React', 'JUnit', 'Jira']",1,5,Bachelor of Science,Massachusetts Institute of Technology,2017,DraftKings,2022.0
